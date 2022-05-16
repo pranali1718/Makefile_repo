@@ -1,0 +1,3 @@
+/home/dell/cpp23/makelist/CMakeFiles/rebuild_cache.dir
+/home/dell/cpp23/makelist/CMakeFiles/hello.dir
+/home/dell/cpp23/makelist/CMakeFiles/edit_cache.dir
